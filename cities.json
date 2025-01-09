@@ -1,0 +1,16 @@
+{
+    "cities": [
+      {
+        "id": "8CHQWG37+8W",
+        "emoji": "🇪🇸",
+        "notes": "awdad",
+        "cityName": "Tariego de Cerrato",
+        "country": "Spain",
+        "date": "2024-09-12T04:28:26.758Z",
+        "position": {
+          "lat": 41.90335021080836,
+          "lng": -4.485161367765536
+        }
+      }
+    ]
+  }
